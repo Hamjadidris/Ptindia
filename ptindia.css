@@ -3,7 +3,7 @@
     box-sizing: border-box;
 
 
-    font-family: 'AvertaStd-Semibold';
+    font-family: 'AvertaStd-Semibold', 'sans-serif';
 }
 header{
     padding: 10px 30px;
