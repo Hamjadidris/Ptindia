@@ -387,8 +387,8 @@ footer h5{
         left:85%;
         top: 80vh;
         z-index: 1000;
-        width: fit-content;
-        height: fit-content;
+        width: 38px;
+        height: 38px;
     }
     .ball img{
         width: 30px;
